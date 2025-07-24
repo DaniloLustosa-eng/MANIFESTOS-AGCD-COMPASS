@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: danilouser/hello-app:1753388976
+        image: danilouser/hello-app:1753389929
         imagePullPolicy: Always
         ports:
         - containerPort: 80
